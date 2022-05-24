@@ -1,3 +1,5 @@
+# This python program allows a user to shape figures using the turtle module https://docs.python.org/3/library/turtle.html
+
 from turtle import*
 
 #The main background shape
